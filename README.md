@@ -2,6 +2,20 @@
 
 A full-stack habit tracking application built with Python/FastAPI backend and TypeScript/React frontend, fully containerized with Docker.
 
+## ⚠️ Disclaimer
+
+**This project was built using GitHub Copilot and is for educational and testing purposes only. It is NOT production-ready code and should not be used in a production environment without proper review, testing, and security hardening.**
+
+Key considerations before production use:
+- Security vulnerabilities may exist
+- Error handling may be incomplete
+- Performance optimizations are not implemented
+- Database schema and migrations need proper management
+- Authentication and authorization are not implemented
+- Input validation and sanitization may be insufficient
+- Logging and monitoring are not configured
+- Backup and recovery procedures are not established
+
 ## Features
 
 - ✅ Create and manage habits
